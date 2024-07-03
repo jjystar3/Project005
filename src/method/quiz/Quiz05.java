@@ -14,6 +14,7 @@ public class Quiz05 {
 		
 		if (n2 == 0) {
 			System.out.println("나누는 수는 0이 될 수 없습니다");
+//			return; 반환, 종료
 		} else {
 			int result = n1 / n2;
 			System.out.println(n1 + "/" + n2 + "=" + result);
