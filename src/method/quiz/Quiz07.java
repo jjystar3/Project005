@@ -6,6 +6,7 @@ public class Quiz07 {
 
 		function(932);
 		function(123);
+		function(300);
 
 	}
 
